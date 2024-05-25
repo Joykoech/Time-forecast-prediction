@@ -1,2 +1,3 @@
-# Time-forecast-prediction
-This project focuses on time series forecasting to predict store sales for Corporation Favorita, a large Ecuadorian-based grocery retailer. The objective is to build a model that accurately predicts the unit sales for thousands of items sold at different Favorita stores
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfe0f2b5820a73c61e90dc46da74fac619c7e43d59fa65f538cdb32a58a8b3fc
+size 300
