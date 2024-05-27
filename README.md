@@ -49,11 +49,17 @@ An earthquake with a magnitude of 7.8 struck Ecuador on April 16, 2016. The eart
 This project includes the following machine learning models:
 
 ARIMA (AutoRegressive Integrated Moving Average)
+
 XGBoost (Extreme Gradient Boosting)
+
 SARIMA (Seasonal AutoRegressive Integrated Moving Average)
+
 LightGBM (Light Gradient Boosting Machine)
+
 Autoregression model
+
 Linear Regression
+
 
 ### **Hyperparameter Tuning**
 Hyperparameters for the models are tuned using GridSearchCV with time series split
